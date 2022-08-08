@@ -16,7 +16,7 @@ import java.util.Arrays;
 import java.util.UUID;
 import com.andrei1058.bedwars.api.BedWars;
 
-public class ManageForm {
+public class PartyManageForm {
 
     public void formList(Player player) {
 
