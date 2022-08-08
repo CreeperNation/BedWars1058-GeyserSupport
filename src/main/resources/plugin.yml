@@ -1,0 +1,12 @@
+name: 'BedWars1058-GeyserSupport'
+depend:
+  - BedWars1058
+  - floodgate
+version: '1.17.1-R0.1-SNAPSHOT'
+main: io.github.creeperz653.bedwars1058geysersupport.bedwarsgeysersupport
+api-version: '1.17'
+author: [Creeperz653, BlueTree242, Abyss]
+commands:
+  bgshop:
+    aliases: [ bgs, bg, bgshop ]
+    default: true
